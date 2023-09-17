@@ -38,5 +38,6 @@
         <li>react-icons</li>
         <li>bcryptjs</li>
         <li>cors</li>
+        <li>send Message</li>
     </ol>
     <h1>Hope You enjoy using this app</h1>
